@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mohit Kumar Gupta
 =========================================================================================================================================
 
-Android Developer
+iOS/Android Developer
 -----------------
 
 As an Android developer, I am proficient in designing, creating, and maintaining mobile applications for Android devices. My expertise lies in programming languages such as Java, Kotlin, or other relevant frameworks. I specialize in crafting user-centric, innovative, and efficient applications that cater to specific user requirements. My responsibilities encompass the entire development cycle, from coding and debugging to testing and implementing new features. I prioritize ensuring app functionality, performance, and compatibility across diverse Android devices. I continuously seek to stay updated with the latest trends and best practices in mobile app development to deliver high-quality, engaging, and user-friendly experiences.
