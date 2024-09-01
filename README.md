@@ -4,17 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web/iOS Developer
 -----------------
 
-<h2>Hi there! 👋</h2>
+
 
 <p>I’m passionate about coding and exploring new technologies, with a specialization in both web development and iOS development. I’ve had the opportunity to work on various projects, including a Library Management System as a intern at Infosys and an app for visually impaired individuals called <strong>ToVoir</strong>.</p>
 
 
-<h3>Skills:</h3>
-<ul>
-  <li><strong>Web Development</strong>: React JS, Javascript, Tailwind CSS</li>
-    <li><strong>iOS Development</strong>: Swift, SwiftUI, UIKit, ARKit, CoreML</li>
-    <li><strong>Tools</strong>: VS Code, Xcode</li>
-</ul>
+
 
 <h3>What I enjoy:</h3>
 <ul>
