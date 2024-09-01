@@ -4,14 +4,26 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web/iOS Developer
 -----------------
 
-As an Android developer, I am proficient in designing, creating, and maintaining mobile applications for Android devices. My expertise lies in programming languages such as Java, Kotlin, or other relevant frameworks. I specialize in crafting user-centric, innovative, and efficient applications that cater to specific user requirements. My responsibilities encompass the entire development cycle, from coding and debugging to testing and implementing new features. I prioritize ensuring app functionality, performance, and compatibility across diverse Android devices. I continuously seek to stay updated with the latest trends and best practices in mobile app development to deliver high-quality, engaging, and user-friendly experiences.
+Hi there! 👋
+I’m passionate about coding and exploring new technologies, with a specialization in both web development and iOS development. I’ve had the opportunity to work on various projects, including a Library Management System as a intern at Infosys and an app for visually impaired individuals called ToVoir.
 
-* 🌍  I'm based in Greater Noida
-* ✉️  You can contact me at [mkg5487@gmail.com](mailto:mkg5487@gmail.com)
-* 🚀  I'm currently working on [E-Commerce App](http://github.com/MKG26/E-commerce_App)
-* 🧠  I'm learning Retrofit, MySQL
-* 🤝  I'm open to collaborating on Android Projects
-* ⚡  I'm secretly Spiderman... but don't tell anyone
+
+Skills:
+Web Development: React JS, Javascript, Tailwind CSS
+iOS Development: Swift, SwiftUI, UIKit, ARKit, CoreML
+Tools: Firebase, Google Books API, Xcode
+
+What I enjoy:
+Learning new technologies
+Building innovative solutions
+Coding and solving complex problems
+Going to the gym
+
+
+Feel free to check out my repositories to see my latest projects and contributions. I’m always open to collaborations and learning opportunities. Let’s connect!
+
+
+
 
 ### Skills
 
