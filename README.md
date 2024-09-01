@@ -4,24 +4,27 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web/iOS Developer
 -----------------
 
-Hi there! 👋
-I’m passionate about coding and exploring new technologies, with a specialization in both web development and iOS development. I’ve had the opportunity to work on various projects, including a Library Management System as a intern at Infosys and an app for visually impaired individuals called ToVoir.
+<h2>Hi there! 👋</h2>
+
+<p>I’m passionate about coding and exploring new technologies, with a specialization in both web development and iOS development. I’ve had the opportunity to work on various projects, including a Library Management System as a intern at Infosys and an app for visually impaired individuals called <strong>ToVoir</strong>.</p>
 
 
-Skills:
-Web Development: React JS, Javascript, Tailwind CSS
-iOS Development: Swift, SwiftUI, UIKit, ARKit, CoreML
-Tools: Firebase, Google Books API, Xcode
+<h3>Skills:</h3>
+<ul>
+  <li><strong>Web Development</strong>: React JS, Javascript, Tailwind CSS</li>
+    <li><strong>iOS Development</strong>: Swift, SwiftUI, UIKit, ARKit, CoreML</li>
+    <li><strong>Tools</strong>: VS Code, Xcode</li>
+</ul>
 
-What I enjoy:
-Learning new technologies
-Building innovative solutions
-Coding and solving complex problems
-Going to the gym
+<h3>What I enjoy:</h3>
+<ul>
+    <li>Learning new technologies</li>
+    <li>Building innovative solutions</li>
+    <li>Coding and solving complex problems</li>
+    <li>Going to the gym</li>
+</ul>
 
-
-Feel free to check out my repositories to see my latest projects and contributions. I’m always open to collaborations and learning opportunities. Let’s connect!
-
+<p>Feel free to check out my repositories to see my latest projects and contributions. I’m always open to collaborations and learning opportunities. Let’s connect!</p>
 
 
 
