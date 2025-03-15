@@ -3,12 +3,9 @@
 </div>
 
 ###
-<div>
-<h1 align="left">Hello World!, I am Mohit 👋:</h1>
-
-<div align="right">
-  <img height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3JwdzBtMnBnNml2MmFtZmIyNDlyZjB2djc0MTA1MTYxOWM1eGpneSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif"  />
-</div>
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <h1>Hello World!, I am Mohit 👋</h1>
+  <img height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3JwdzBtMnBnNml2MmFtZmIyNDlyZjB2djc0MTA1MTYxOWM1eGpneSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif" />
 </div>
 
 ###
