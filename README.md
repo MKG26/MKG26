@@ -1,3 +1,9 @@
+<div align="center">
+  <img height="200" src="https://media.licdn.com/dms/image/v2/D4E16AQHkJzLvwnjh0w/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1738856528094?e=1747267200&v=beta&t=RizuFgvanw6OZgOQ05VO_SuCEV_JFNo79RmWF8IeN8s"  />
+</div>
+
+###
+
 <h1 align="left">Hello World!, I am Mohit 👋:</h1>
 
 ###
@@ -87,6 +93,4 @@
 ###
 
 <img src="https://raw.githubusercontent.com/mkg26/mkg26/output/snake.svg" alt="Snake animation" />
-
-###
 
